@@ -77,7 +77,7 @@ The main component I needed to create the snapshot was adding images of the isla
 
 :::
 
-Check out the funtion in my repo [here.](https://github.com/tuckertrostbyui/LoveIsland_Sentiment/blob/main/scripts/islander_scrape.py)
+Check out the funtion in my repo [here.](https://github.com/tuckertrost/LoveIsland_Sentiment/blob/main/scripts/islander_scrape.py)
 
 #### Image Storage
 
